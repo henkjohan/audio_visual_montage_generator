@@ -1,0 +1,14 @@
+librosa>=0.11.0
+soundfile>=0.14.0
+scipy>=1.14.0
+numpy>=2.0.0
+opencv-python>=4.10.0
+Pillow>=11.0.0
+ImageHash>=4.3.1
+scenedetect>=0.6.5
+moviepy>=2.1.0
+imageio-ffmpeg>=0.5.1
+scikit-learn>=1.5.0
+matplotlib>=3.9.0
+tqdm>=4.66.0
+
